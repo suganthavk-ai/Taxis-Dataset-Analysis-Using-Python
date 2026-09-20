@@ -37,7 +37,7 @@ The project contains the following visualizations:
 ### Matplotlib / Pandas
 1.	Line Chart
 -	Shows fare over time using the pickup timestamp.
-2	Bar Chart
+2.	Bar Chart
 -	Displays total fare for each pickup borough.
 3.	Pie Chart
 -	Shows the distribution of trips based on payment method.
